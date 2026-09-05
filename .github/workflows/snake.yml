@@ -11,11 +11,11 @@ on:
 jobs:
 generate:
 permissions:
-contents: write
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake
-      uses: Platane/snk@v3
+      uses: Platane/snk/svg-action@v3
       with:
         github_user_name: nbsayan7-cell
         outputs: |

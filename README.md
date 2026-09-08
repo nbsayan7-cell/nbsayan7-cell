@@ -20,19 +20,40 @@
 </p>
 
 <p align="center">
-  <a href="https://worldview-drab.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Showcase-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://zephyrox.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ZEPHYROX%20Live-FF0055?style=for-the-badge&logo=vercel&logoColor=white" alt="Zephyrox Portfolio" />
   </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://worldview-drab.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/WorldView-3D%20Earth-7928CA?style=for-the-badge&logo=cesium&logoColor=white" alt="WorldView" />
+  </a>
+  <a href="https://www.linkedin.com/in/sayan-saha-a283b53b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sayan%20Saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sayansaha.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/nbsayan7-cell">
     <img src="https://img.shields.io/badge/GitHub-nbsayan7--cell-1E1B4B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+<!-- LIVE PORTFOLIO SHOWCASE & PREVIEW -->
+<div align="center">
+  <a href="https://zephyrox.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/nbsayan7-cell/nbsayan7-cell/main/assets/zephyrox-preview.jpg" alt="ZEPHYROX Live Showcase Preview" width="100%" style="max-width: 880px; border-radius: 12px; border: 1px solid #4F46E5;" />
+  </a>
+  <br/>
+  <p align="center">
+    🎬 <b><a href="https://zephyrox.vercel.app/" target="_blank">ZEPHYROX</a></b> — <i>Interactive Creative & Systems Engineering Portfolio (Live Showcase)</i> ⚡
+    <br/>
+    <a href="https://zephyrox.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-zephyrox.vercel.app-00DC82?style=flat-square&logo=vercel&logoColor=white" alt="Zephyrox Live" />
+    </a>
+    <a href="https://zephyrox.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Experience-Interactive%203D%20Showcase-7928CA?style=flat-square&logo=three.js&logoColor=white" alt="Interactive Experience" />
+    </a>
+  </p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nbsayan7-cell&style=flat-square&color=8a2be2&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -108,7 +129,29 @@ I am a **Senior Software Engineer & AI Systems Architect** specialized in design
 ## Featured Projects
 
 <details open>
-<summary><b>01. SatQuery-AI — Multimodal Remote Sensing VQA & Change Detection Platform</b></summary>
+<summary><b>01. ZEPHYROX — Interactive Creative & Visual Systems Engineering Platform</b></summary>
+<br/>
+
+A flagship creative engineering web platform uniting visual storytelling, cinematic motion design, and high-performance modern web architecture. Featuring hardware-accelerated 3D lanyard physics, interactive reel streaming, dynamic audio toggles, and responsive project archives.
+
+| Metric / Dimension | Engineering Specification |
+| :--- | :--- |
+| **Live Showcase** | [zephyrox.vercel.app](https://zephyrox.vercel.app/) |
+| **Stack** | Next.js, React 19, TypeScript, TailwindCSS, WebGL / 3D Canvas, Lucide Icons, Vercel |
+| **Scale** | Multi-project 4K video reel streaming, responsive interactive 3D badge physics, audio reactive controls |
+| **Performance** | 60 FPS GPU-accelerated rendering, sub-second LCP, dynamic lazy-loading and asset streaming |
+| **Security** | Hardened CSP boundaries, strict sanitization middleware, encrypted HTTPS transport |
+| **Impact** | Live production showcase demonstrating the intersection of film, visual design, and advanced software engineering |
+| **Repository / Deployment** | [zephyrox.vercel.app](https://zephyrox.vercel.app/) |
+
+**Architectural Overview:**  
+Engineered a cutting-edge web experience utilizing Next.js app router and custom viewport shaders. Features interactive 3D physics cards, sticky carousel work archives with horizontal timeline tracking, and smooth video playback pipelines optimized for mobile, tablet, and ultra-wide displays.
+</details>
+
+<br/>
+
+<details>
+<summary><b>02. SatQuery-AI — Multimodal Remote Sensing VQA & Change Detection Platform</b></summary>
 <br/>
 
 An enterprise-grade geospatial artificial intelligence platform engineered for automated satellite imagery analysis, visual question answering (VQA), and bi-temporal change detection backed by deterministic scientific verification gates.
@@ -129,7 +172,7 @@ Engineered a multi-stage deterministic scientific pipeline featuring SSIM change
 <br/>
 
 <details>
-<summary><b>02. WorldView — Interactive 3D Earth Observation & Planetary Intelligence Engine</b></summary>
+<summary><b>03. WorldView — Interactive 3D Earth Observation & Planetary Intelligence Engine</b></summary>
 <br/>
 
 A full-stack, cloud-native planetary explorer and geospatial data visualization platform deployed on Vercel with real-time geospatial layer rendering.
@@ -150,7 +193,7 @@ Designed an intuitive spatial web application capable of streaming planetary til
 <br/>
 
 <details>
-<summary><b>03. Agentic Mesh — High-Throughput Autonomous Agent & Tool Routing Fabric</b></summary>
+<summary><b>04. Agentic Mesh — High-Throughput Autonomous Agent & Tool Routing Fabric</b></summary>
 <br/>
 
 A distributed multi-agent orchestrator utilizing ReAct patterns, dynamic tool binding, and deterministic validation schemas for complex automated engineering workflows.
@@ -165,7 +208,7 @@ A distributed multi-agent orchestrator utilizing ReAct patterns, dynamic tool bi
 | **Repository** | [github.com/nbsayan7-cell/SatQuery-AI](https://github.com/nbsayan7-cell/SatQuery-AI) |
 
 **Architectural Overview:**  
-Implemented a robust agentic mesh capable of decomposing unstructured tasks into validated execution steps, integrating live external APIs, geospatial indexing, and deterministic validation gates.
+Engineered a robust agentic mesh capable of decomposing unstructured tasks into validated execution steps, integrating live external APIs, geospatial indexing, and deterministic validation gates.
 </details>
 
 ---
@@ -326,17 +369,26 @@ current_focus:
 ## Connect
 
 <p align="center">
-  <a href="mailto:sayansaha.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://zephyrox.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ZEPHYROX-FF0055?style=for-the-badge&logo=vercel&logoColor=white" alt="Zephyrox" />
   </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sayan-saha-a283b53b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sayan%20Saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sayansaha.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sayansaha.contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/nbsayan7-cell">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-nbsayan7--cell-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://worldview-drab.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://www.youtube.com/@ZephyroxStudios" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-ZephyroxStudios-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://x.com/zephyrox0" target="_blank">
+    <img src="https://img.shields.io/badge/X-@zephyrox0-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://worldview-drab.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/WorldView-3D%20Earth-7928CA?style=for-the-badge&logo=cesium&logoColor=white" alt="WorldView" />
   </a>
 </p>
 
